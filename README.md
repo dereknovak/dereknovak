@@ -10,7 +10,7 @@ Currently, I'm building [Vispyr](https://vispyr.com), an open-source, easy to in
 
 <div>
   <img src="./vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
-  <a href="https://www.vispyr.com" target="__blank">
+  <a href="https://www.vispyr.com" target="_blank">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Personal Website">
   </a>
 </div>
