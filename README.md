@@ -8,7 +8,7 @@ When not at the computer, you can typically find me outside riding a bike. Racin
 
 Currently, I'm building [Vispyr](https://vispyr.com), an open-source, easy to install observability tool that brings continuous profiling to small development teams by combining profiles with traditional telemetry signals to connect runtime data to the exact code impacting an application’s performance.
 
-<div display="flex">
+<div style="display: flex; align-items: center;">
   <img src="https://www.vispyr.com/_astro/vispyr-flame.CgY0L66e_2ucId6.webp" style="width: 5%" alt="Vispyr Logo" />
   <a href="https://www.vispyr.com">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Personal Website">
