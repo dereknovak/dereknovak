@@ -6,7 +6,7 @@ When not at the computer, you can typically find me outside riding a bike. Racin
 
 ## What's new?
 
-Currently, I'm building [Vispyr](https://vispyr.com), an open-source, easy to install observability tool that brings continuous profiling to small development teams by combining profiles with traditional telemetry signals to connect runtime data to the exact code impacting an application’s performance.
+Currently, I'm building [Vispyr](https://vispyr.com), an open-source, easy to install observability tool that brings continuous profiling to small development teams by combining profiles with traditional telemetry data to provide code-level insights into an application’s performance.
 
 <div>
   <img src="./vispyr-flame.png" style="width: 5%" alt="Vispyr Logo" />
