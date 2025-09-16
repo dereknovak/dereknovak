@@ -1,6 +1,6 @@
 # Howdy! I'm Derek 👋
 
-I'm a software engineer passionate about solving complex problems, creating innovative solutions, and empowering others through collaboration. I leverage a music education background by mixing a detail-oriented approach with a bit of artistic flair to drive impactful results for any team.
+I'm a full-stack software engineer from Austin, TX with multiple years of experience in the JavaScript and Ruby ecosystems. I thrive in fast-moving, collaborative environments and have a passion for developing tools that simplify complex processes and building intuitive, user-friendly interfaces.
 
 When not at the computer, you can typically find me outside riding a bike. Racing season is upon us! 🚴🏻‍♂️
 
