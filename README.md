@@ -1,6 +1,6 @@
 # Howdy! I'm Derek 👋
 
-I'm a full-stack software engineer from Austin, TX with multiple years of experience in the JavaScript and Ruby ecosystems. I thrive in fast-moving, collaborative environments and have a passion for developing tools that simplify complex processes and building intuitive, user-friendly interfaces.
+I'm a full-stack software engineer from Austin, TX with over 2 years of experience in the JavaScript and Ruby ecosystems. Having earned multiple degrees from distinguished institutions, I combine disciplined problem-solving and a passion for continuous learning to design elegant, high-impact software solutions.
 
 When not at the computer, you can typically find me outside riding a bike. Racing season is upon us! 🚴🏻‍♂️
 
@@ -23,10 +23,11 @@ Currently, I'm building [Vispyr](https://vispyr.com), an open-source, easy to in
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=express&logoColor=white)](https://expressjs.com/)
+[![Ruby](https://img.shields.io/badge/-Ruby-cc342d?&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat&logo=rubysinatra&logoColor=white)](http://sinatrarb.com/)
 [![Python](https://img.shields.io/badge/-Python-green?&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-0FB1F7?&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-[![Ruby](https://img.shields.io/badge/-Ruby-cc342d?&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Sinatra](https://img.shields.io/badge/-Sinatra-CC342D?&logo=rubysinatra&logoColor=white)](http://sinatrarb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)](https://www.docker.com/)
